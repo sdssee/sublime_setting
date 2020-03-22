@@ -1,4 +1,4 @@
-1. 屏蔽host：
+1. 屏蔽host： 
 127.0.0.1 www.sublimetext.com
 127.0.0.1 sublimetext.com
 127.0.0.1 sublimehq.com
